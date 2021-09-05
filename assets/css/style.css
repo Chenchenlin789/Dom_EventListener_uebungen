@@ -1,0 +1,19 @@
+div {
+  width: 100px;
+  height: 100px;
+  background-color: gold;
+  margin-top: 50px;
+  color: tomato;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+select {
+  padding: 15px 20px;
+  border: none;
+  border-bottom: 1px solid #e4e4e4;
+  font-size: 2rem;
+  outline: 0;
+}
